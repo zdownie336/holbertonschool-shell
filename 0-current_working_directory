@@ -1,4 +1,2 @@
-$ ./Documents/holbertonschool-shell
-/basics/
-$
-
+#!/bin/bash
+echo "directory path is ($PWD)
