@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "directory path is ($PWD)"
